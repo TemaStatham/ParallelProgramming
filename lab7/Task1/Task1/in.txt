@@ -1,0 +1,19 @@
+Beutiful is better thn ugly
+Explicit is better thn implicit
+Simple is better thn complex
+Complex is better thn complicted
+Flt is better thn nested
+Sprse is better thn dense
+Redbility counts
+Specil cses ren't specil enough to brek the rules
+Although prcticlity bets purity
+Errors should never pss silently
+Unless explicitly silenced
+In the fce of mbiguity refuse the tempttion to guess
+There should be one-- nd preferbly only one --obvious wy to do it
+Although tht wy my not be obvious t first unless you're Dutch
+Now is better thn never
+Although never is often better thn *right* now
+If the implementtion is hrd to explin it's  bd ide
+If the implementtion is esy to explin it my be  good ide
+Nmespces re one honking gret ide -- let's do more of those
